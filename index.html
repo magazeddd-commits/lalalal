@@ -10,6 +10,28 @@
      2. Пиксель вставляется в блок PIXEL ниже
      ================================== -->
 
+<!-- ================================================================
+     СЮДА ВСТАВЛЯЕШЬ ССЫЛКИ ИЗ TGTRACK. По одной на каждый креатив.
+     Слева номер креатива, справа его трекинговая ссылка.
+     В Facebook эти ссылки НЕ вставляются, они живут только тут.
+     ================================================================ -->
+<script>
+window.LINKS = {
+  '1':  'https://t.me/gotoChannelBot?startapp=TLc228da447b6947',
+  '2':  'https://t.me/gotoChannelBot?startapp=TLaa44ebf9bd19c1',
+  '3':  'https://t.me/gotoChannelBot?startapp=TLbe2cc639416f89',
+  '4':  'https://t.me/gotoChannelBot?startapp=TLea4f74d339c5e6',
+  '5':  'https://t.me/gotoChannelBot?startapp=TLe4aa05b66f56af',
+  '6':  'https://t.me/gotoChannelBot?startapp=TLbf8866c943f5d3',
+  '7':  'https://t.me/gotoChannelBot?startapp=TLba44eb74c12c31',
+  '8':  'https://t.me/gotoChannelBot?startapp=TL07c1ff573a7e8a',
+  '9':  'https://t.me/gotoChannelBot?startapp=TLceadf11b9f7d24',
+  '10': 'https://t.me/gotoChannelBot?startapp=TL50b097993131bc'
+};
+// Ссылка на случай, если человек зашёл на страницу без номера в адресе
+window.LINK_DEFAULT = 'https://t.me/gotoChannelBot?startapp=TLc228da447b6947';
+</script>
+
 <!-- ============ META PIXEL ============ -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -122,35 +144,29 @@ src="https://www.facebook.com/tr?id=1079171481750933&ev=PageView&noscript=1"
 Делюсь опытом, мыслями, жизнью и тем, что обычно остается за кадром 🤝…</div>
 
   <!-- ССЫЛКА 1: сюда ставишь свой канал или бота -->
-  <a class="btn btn-join" id="joinBtn" href="https://t.me/ЗАМЕНИ_МЕНЯ">Join Channel</a>
+  <a class="btn btn-join" id="joinBtn" href="#">Join Channel</a>
 
   <!-- ССЫЛКА 2: та же ссылка -->
-  <a class="btn btn-web" id="webBtn" href="https://t.me/ЗАМЕНИ_МЕНЯ">Open in Web</a>
+  <a class="btn btn-web" id="webBtn" href="#">Open in Web</a>
 </div>
 
 <script>
-  // Переносит метку из рекламы дальше в телеграм.
-  // Пример: страница открыта как ?s=g1_kz_a7 -> кнопка станет t.me/твой_бот?start=g1_kz_a7
+  // Берёт номер креатива из адреса страницы (например ?c=3)
+  // и ставит в обе кнопки нужную трекинговую ссылку.
   (function () {
     var p = new URLSearchParams(location.search);
-    var tag = p.get('s') || p.get('utm_content') || p.get('utm_campaign') || '';
-    tag = tag.replace(/[^A-Za-z0-9_-]/g, '').slice(0, 64);
-    if (!tag) return;
+    var c = (p.get('c') || '').trim();
+    var url = (window.LINKS && window.LINKS[c]) ? window.LINKS[c] : window.LINK_DEFAULT;
+
     ['joinBtn', 'webBtn'].forEach(function (id) {
       var a = document.getElementById(id);
       if (!a) return;
-      a.href = a.href.split('?')[0] + '?start=' + tag;
+      a.href = url;
+      a.addEventListener('click', function () {
+        if (window.fbq) { fbq('track', 'Lead', { content_name: 'creo_' + (c || 'none') }); }
+      });
     });
   })();
-
-  // событие клика по кнопке перехода в телеграм
-  ['joinBtn','webBtn'].forEach(function(id){
-    var a=document.getElementById(id);
-    if(!a)return;
-    a.addEventListener('click',function(){
-      if(window.fbq){fbq('track','Lead');}
-    });
-  });
 </script>
 
 </body>
