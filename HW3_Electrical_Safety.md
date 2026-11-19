@@ -1,20 +1,13 @@
----
-title: "HW 3 — Electrical Safety: Oral Questions"
-subtitle: "Preparation notes (deadline 20.11, 3.5 points)"
----
-
-# HW 3 — Electrical Safety: Answers to the Oral Questions
+# Electrical Safety
 
 **Main legal source:** Order of the Minister of Energy of the Republic of Kazakhstan No. 222 of 19 March 2015, *Rules of Safety when Operating Electrical Installations of Consumers* (as amended, incl. the Order of 17 January 2025).
 Key paragraphs: **§8** – electrical safety qualification groups; **§29** – work permits and work orders; **§139** – checking for absence of voltage with a voltage indicator; **§170** – safety signs and posters at workplaces.
-
-> How to use this: each question has a **short answer** (what to say first, ~30 s) and **details** (to expand if the teacher asks follow-ups).
 
 ---
 
 ## 1. Effects of Electric Current on the Human Body
 
-**Short answer.** Current passing through the body has four effects: **thermal** (burns, heating of tissues and blood vessels), **electrolytic** (decomposition of blood and body fluids), **mechanical** (tearing of tissues, fractures from muscle contraction) and **biological** (irritation of nerves and muscles, convulsions, stopping of breathing and heart). Injuries are divided into **local** electrical injuries and **electric shock** (general injury).
+Current passing through the body has four effects: **thermal** (burns, heating of tissues and blood vessels), **electrolytic** (decomposition of blood and body fluids), **mechanical** (tearing of tissues, fractures from muscle contraction) and **biological** (irritation of nerves and muscles, convulsions, stopping of breathing and heart). Injuries are divided into **local** electrical injuries and **electric shock** (general injury).
 
 **Local electrical injuries**
 
@@ -47,7 +40,7 @@ Key paragraphs: **§8** – electrical safety qualification groups; **§29** –
 
 ## 2. Electrical Resistance of the Human Body
 
-**Short answer.** The body's resistance consists of the **resistance of the skin** (mainly the outer horny layer – *stratum corneum*) and the **internal resistance** of the body. Dry intact skin may have 10–100 kΩ, but the internal resistance is only about **300–1000 Ω**. For safety calculations the resistance of the human body is taken as **R_h = 1000 Ω** (AC 50 Hz).
+The body's resistance consists of the **resistance of the skin** (mainly the outer horny layer – *stratum corneum*) and the **internal resistance** of the body. Dry intact skin may have 10–100 kΩ, but the internal resistance is only about **300–1000 Ω**. For safety calculations the resistance of the human body is taken as **R_h = 1000 Ω** (AC 50 Hz).
 
 **Equivalent circuit:** two skin layers (each = resistance in parallel with capacitance) + internal resistance in series. Because of the capacitance, resistance drops as frequency rises.
 
@@ -65,7 +58,7 @@ Key paragraphs: **§8** – electrical safety qualification groups; **§29** –
 
 ## 3. Classification of Electrical Hazards and Workplace Conditions
 
-**Short answer.** Electrical hazards are classified by **how a person touches the circuit** and by the **voltage**; premises are classified by the **level of danger of electric shock** (Electrical Installation Rules — ПУЭ РК).
+Electrical hazards are classified by **how a person touches the circuit** and by the **voltage**; premises are classified by the **level of danger of electric shock** (Electrical Installation Rules — ПУЭ РК).
 
 **Types of electrical hazards**
 
@@ -91,7 +84,7 @@ The class of the premises determines the permitted voltage of portable tools and
 
 ## 4. Organization of Safe Operation of Electrical Installations
 
-**Short answer.** Safety is ensured by **organizational** and **technical** measures. Personnel must be at least 18 years old, pass a medical examination, training, a knowledge test, and have the proper **electrical safety qualification group** (§8). Work is done under a **work permit** or **work order** (§29).
+Safety is ensured by **organizational** and **technical** measures. Personnel must be at least 18 years old, pass a medical examination, training, a knowledge test, and have the proper **electrical safety qualification group** (§8). Work is done under a **work permit** or **work order** (§29).
 
 **Qualification groups (§8)**
 
@@ -126,7 +119,7 @@ The employer appoints a person **responsible for the electrical facilities** (Gr
 
 ## 5. Technical Methods and Protective Measures in Electrical Installations
 
-**Short answer.** Protection against **direct contact**: insulation, enclosures and barriers, placing out of reach, interlocks. Protection against **indirect contact**: protective grounding, protective zeroing (connection to neutral), automatic disconnection / RCD, double insulation, low voltage, electrical separation, potential equalization.
+Protection against **direct contact**: insulation, enclosures and barriers, placing out of reach, interlocks. Protection against **indirect contact**: protective grounding, protective zeroing (connection to neutral), automatic disconnection / RCD, double insulation, low voltage, electrical separation, potential equalization.
 
 **Main measures**
 
@@ -147,7 +140,7 @@ The employer appoints a person **responsible for the electrical facilities** (Gr
 
 ## 6. Protective Grounding and Grounding Systems
 
-**Short answer.** **Protective grounding** is the deliberate electrical connection of non‑current‑carrying metal parts (enclosures, frames) that may become live to the **earth** through a grounding device. Its purpose is to **reduce touch and step voltage** to a safe value: in case of insulation failure the current flows through the low‑resistance ground connection instead of the person (R_ground ≪ R_human = 1000 Ω).
+**Protective grounding** is the deliberate electrical connection of non‑current‑carrying metal parts (enclosures, frames) that may become live to the **earth** through a grounding device. Its purpose is to **reduce touch and step voltage** to a safe value: in case of insulation failure the current flows through the low‑resistance ground connection instead of the person (R_ground ≪ R_human = 1000 Ω).
 
 **Grounding device** = earth electrodes (vertical rods, steel angle/pipes 2.5–3 m, horizontal strips) + grounding conductors. Electrodes may be **natural** (metal structures, pipelines in the ground, foundations) or **artificial**.
 
@@ -173,7 +166,7 @@ The employer appoints a person **responsible for the electrical facilities** (Gr
 
 ## 7. Electrical Protective Equipment and Voltage Testing Devices
 
-**Short answer.** Electrical protective equipment is divided into **insulating** (basic and additional), **enclosing** (fences, screens), **portable grounding**, **safety posters and signs**, and **personal protective equipment** (helmets, goggles, arc‑protection clothing). **Basic** equipment withstands the working voltage and allows touching live parts; **additional** equipment cannot protect alone and is used together with basic.
+Electrical protective equipment is divided into **insulating** (basic and additional), **enclosing** (fences, screens), **portable grounding**, **safety posters and signs**, and **personal protective equipment** (helmets, goggles, arc‑protection clothing). **Basic** equipment withstands the working voltage and allows touching live parts; **additional** equipment cannot protect alone and is used together with basic.
 
 | | Basic | Additional |
 |---|---|---|
@@ -192,9 +185,7 @@ The employer appoints a person **responsible for the electrical facilities** (Gr
 
 ## 8. Electrical Safety Signs, Warning Signs and Safety Posters in Kazakhstan
 
-*(Source materials: kadroved.kz "Знаки безопасности по охране труда в РК" and Order No. 222, §170.)*
-
-**Short answer.** In Kazakhstan safety signs are regulated by the **Labor Code of the RK** (the employer must provide safe working conditions and inform workers about hazards), by the standard **ST RK GOST R 12.4.026 "Signal colors, safety signs and signal marking"** (and the interstate GOST 12.4.026‑2015) and, for electrical installations, by **Order No. 222, §170**. Signs warn about hazards, prohibit or prescribe actions and show the location of safety equipment and escape routes. Text on signs and posters must be in the state (Kazakh) and Russian languages.
+In Kazakhstan safety signs are regulated by the **Labor Code of the RK** (the employer must provide safe working conditions and inform workers about hazards), by the standard **ST RK GOST R 12.4.026 "Signal colors, safety signs and signal marking"** (and the interstate GOST 12.4.026‑2015) and, for electrical installations, by **Order No. 222, §170**. Signs warn about hazards, prohibit or prescribe actions and show the location of safety equipment and escape routes. Text on signs and posters must be in the state (Kazakh) and Russian languages.
 
 **Signal colors**
 
@@ -242,7 +233,7 @@ The employer appoints a person **responsible for the electrical facilities** (Gr
 
 ## 9. First Aid in Case of Electric Shock
 
-**Short answer.** 1) **Free the victim from the current** without endangering yourself; 2) **call an ambulance** (103 / 112 in Kazakhstan); 3) **assess consciousness and breathing**; 4) if there is no normal breathing — start **CPR (30 compressions : 2 breaths)** and use an AED if available; 5) treat burns and keep the victim under observation until doctors arrive.
+1) **Free the victim from the current** without endangering yourself; 2) **call an ambulance** (103 / 112 in Kazakhstan); 3) **assess consciousness and breathing**; 4) if there is no normal breathing — start **CPR (30 compressions : 2 breaths)** and use an AED if available; 5) treat burns and keep the victim under observation until doctors arrive.
 
 **1. Release from the current**
 
@@ -268,7 +259,7 @@ The employer appoints a person **responsible for the electrical facilities** (Gr
 
 ## 10. Protection Against Industrial‑Frequency Electromagnetic Fields (50 Hz)
 
-**Short answer.** Industrial‑frequency (50 Hz) electric and magnetic fields are created by high‑voltage lines (330 kV and above), open switchgear, substations, and powerful electrical equipment. Long exposure affects the **nervous and cardiovascular systems** (headache, fatigue, sleep disorders, blood pressure changes). Protection: **time, distance, shielding**, plus organizational and sanitary measures.
+Industrial‑frequency (50 Hz) electric and magnetic fields are created by high‑voltage lines (330 kV and above), open switchgear, substations, and powerful electrical equipment. Long exposure affects the **nervous and cardiovascular systems** (headache, fatigue, sleep disorders, blood pressure changes). Protection: **time, distance, shielding**, plus organizational and sanitary measures.
 
 **Permissible electric field intensity E at workplaces (sanitary norms):**
 
@@ -295,7 +286,7 @@ Magnetic field of 50 Hz is limited by the duration of exposure (e.g. ~80 A/m (10
 
 ## 11. Static Electricity and Its Prevention
 
-**Short answer.** Static electricity is the generation and accumulation of free electric charges on surfaces of dielectrics and isolated conductors. It arises from **friction, separation, crushing, spraying** of materials: flowing liquids (petroleum products) and gases, moving belts, dust, synthetic clothing. The danger: a **spark discharge** can ignite flammable gas, vapor or dust mixtures (fire/explosion), cause unpleasant shocks (a person may fall or make a wrong movement), damage electronics and disturb technological processes.
+Static electricity is the generation and accumulation of free electric charges on surfaces of dielectrics and isolated conductors. It arises from **friction, separation, crushing, spraying** of materials: flowing liquids (petroleum products) and gases, moving belts, dust, synthetic clothing. The danger: a **spark discharge** can ignite flammable gas, vapor or dust mixtures (fire/explosion), cause unpleasant shocks (a person may fall or make a wrong movement), damage electronics and disturb technological processes.
 
 **Prevention measures**
 
@@ -309,7 +300,7 @@ Magnetic field of 50 Hz is limited by the duration of exposure (e.g. ~80 A/m (10
 
 ---
 
-### Quick cheat sheet (numbers to remember)
+### Key figures
 
 - Human body resistance for calculations: **1000 Ω**
 - AC thresholds: **1 mA** perceptible, **10–15 mA** let‑go, **50–100 mA** fibrillation
