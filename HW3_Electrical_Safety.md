@@ -11,30 +11,30 @@ Current passing through the body has four effects: **thermal** (burns, heating o
 
 **Local electrical injuries**
 
-- electrical burns (current burns and arc burns — the most common, ~60–65 % of cases);
+- electrical burns (current burns and arc burns - the most common, ~60–65 % of cases);
 - electrical marks (grey/yellow spots at the entry/exit points);
 - metallization of the skin (metal particles from the arc penetrate the skin);
-- electro‑ophthalmia (eye inflammation from the arc's UV radiation);
+- electro-ophthalmia (eye inflammation from the arc's UV radiation);
 - mechanical injuries (ruptures, dislocations, falls from height).
 
-**Electric shock — degrees of severity**
+**Electric shock - degrees of severity**
 
 | Degree | Condition |
 |---|---|
 | I | Convulsive muscle contraction, no loss of consciousness |
 | II | Convulsions with loss of consciousness, breathing and heart work |
 | III | Loss of consciousness + disturbed heart activity or breathing (or both) |
-| IV | Clinical death — no breathing and no circulation (4–6 min until irreversible brain damage) |
+| IV | Clinical death - no breathing and no circulation (4–6 min until irreversible brain damage) |
 
 **Threshold values of current (AC 50 Hz / DC)**
 
 | Threshold | AC 50 Hz | DC |
 |---|---|---|
 | Perceptible | 0.6–1.5 mA | 5–7 mA |
-| Non‑releasing ("let‑go") — person cannot release the conductor | 10–15 mA | 50–80 mA |
-| Fibrillating — ventricular fibrillation of the heart | 50–100 mA (≥100 mA – lethal) | 300 mA |
+| Non-releasing ("let-go") - person cannot release the conductor | 10–15 mA | 50–80 mA |
+| Fibrillating - ventricular fibrillation of the heart | 50–100 mA (≥100 mA – lethal) | 300 mA |
 
-**Factors that determine the outcome:** magnitude of current (the main factor), duration of exposure, **path of current** (most dangerous: hand–hand, left hand–legs, head–legs — through the heart and lungs), kind and frequency of current (50–500 Hz is the most dangerous; DC is ~4–5 times safer at low voltage), resistance of the body, individual condition (fatigue, alcohol, illness), environment (humidity, temperature), and the "attention factor".
+**Factors that determine the outcome:** magnitude of current (the main factor), duration of exposure, **path of current** (most dangerous: hand–hand, left hand–legs, head–legs - through the heart and lungs), kind and frequency of current (50–500 Hz is the most dangerous; DC is ~4–5 times safer at low voltage), resistance of the body, individual condition (fatigue, alcohol, illness), environment (humidity, temperature), and the "attention factor".
 
 ---
 
@@ -47,38 +47,38 @@ The body's resistance consists of the **resistance of the skin** (mainly the out
 **Resistance decreases when:**
 
 - skin is wet, sweaty, damaged (cuts, abrasions) or dirty with conductive dust;
-- **voltage increases** — at 50–200 V the horny layer breaks down and resistance falls to the internal value;
+- **voltage increases**: at 50–200 V the horny layer breaks down and resistance falls to the internal value;
 - contact area and contact pressure increase;
 - the current flows longer (skin heats up and sweats);
 - the person is tired, drunk, ill.
 
-**Conclusion / example:** U = 220 V, R_h = 1000 Ω → I = 220 / 1000 = 0.22 A = 220 mA → lethal. This is why even household voltage is dangerous and why we cannot rely on skin resistance as protection.
+**Example:** U = 220 V, R_h = 1000 Ω → I = 220 / 1000 = 0.22 A = 220 mA → lethal. This is why even household voltage is dangerous and why we cannot rely on skin resistance as protection.
 
 ---
 
 ## 3. Classification of Electrical Hazards and Workplace Conditions
 
-Electrical hazards are classified by **how a person touches the circuit** and by the **voltage**; premises are classified by the **level of danger of electric shock** (Electrical Installation Rules — ПУЭ РК).
+Electrical hazards are classified by **how a person touches the circuit** and by the **voltage**; premises are classified by the **level of danger of electric shock** (Electrical Installation Rules - ПУЭ РК).
 
 **Types of electrical hazards**
 
-- **direct contact** — touching normally live parts (bare wires, terminals);
-- **indirect contact** — touching metal enclosures that became live due to insulation failure;
+- **direct contact**: touching normally live parts (bare wires, terminals);
+- **indirect contact**: touching metal enclosures that became live due to insulation failure;
 - **touch voltage** and **step voltage** (when a conductor falls to the ground, potential spreads in a radius of up to ~20 m);
-- approaching high‑voltage parts closer than the permissible distance (arc flashover);
+- approaching high-voltage parts closer than the permissible distance (arc flashover);
 - electric arc (burns, eye damage, fire), static electricity, electromagnetic fields;
-- single‑phase contact (most common) vs two‑phase contact (most dangerous — full line voltage across the body).
+- single-phase contact (most common) vs two-phase contact (most dangerous - full line voltage across the body).
 
 **By voltage:** electrical installations **up to 1000 V** and **above 1000 V**.
 
 **Classification of premises by danger of electric shock**
 
-1. **Without increased danger** — none of the conditions below (dry, heated offices).
-2. **With increased danger** — at least **one** of: humidity **> 75 %** for a long time; **conductive dust**; **conductive floors** (metal, earth, concrete, brick); temperature **> 35 °C** for a long time; possibility of **simultaneous contact** with grounded metal structures and enclosures of electrical equipment.
-3. **Especially dangerous** — **one** of: humidity close to **100 %** (walls, floor, ceiling covered with moisture); **chemically active or organic environment** destroying insulation; **two or more** conditions of increased danger at the same time.
-4. **Territory of outdoor electrical installations** — equated to especially dangerous premises.
+1. **Without increased danger**: none of the conditions below (dry, heated offices).
+2. **With increased danger**: at least **one** of: humidity **> 75 %** for a long time; **conductive dust**; **conductive floors** (metal, earth, concrete, brick); temperature **> 35 °C** for a long time; possibility of **simultaneous contact** with grounded metal structures and enclosures of electrical equipment.
+3. **Especially dangerous**: **one** of: humidity close to **100 %** (walls, floor, ceiling covered with moisture); **chemically active or organic environment** destroying insulation; **two or more** conditions of increased danger at the same time.
+4. **Territory of outdoor electrical installations**: equated to especially dangerous premises.
 
-The class of the premises determines the permitted voltage of portable tools and lamps (e.g. ≤ 42 V in increased‑danger and ≤ 12 V in especially dangerous conditions / inside metal tanks) and which protective measures are mandatory.
+The class of the premises determines the permitted voltage of portable tools and lamps (e.g. ≤ 42 V in increased-danger and ≤ 12 V in especially dangerous conditions / inside metal tanks) and which protective measures are mandatory.
 
 ---
 
@@ -90,29 +90,29 @@ Safety is ensured by **organizational** and **technical** measures. Personnel mu
 
 | Group | Who / what |
 |---|---|
-| I | Non‑electrical personnel; basic understanding of the hazard; instruction (briefing) with a test |
+| I | Non-electrical personnel; basic understanding of the hazard; instruction (briefing) with a test |
 | II | Basic technical knowledge of the installation, practical first aid |
 | III | Can work in installations up to 1000 V independently; can be permitter/supervisor up to 1000 V |
 | IV | Installations up to and above 1000 V; work manager; can train Group I–III staff |
 | V | Full knowledge of schemes and rules; can issue permits; responsible for electrical facilities in installations above 1000 V |
 
-The employer appoints a person **responsible for the electrical facilities** (Group IV for installations up to 1000 V, Group V above 1000 V). Knowledge tests are repeated periodically (typically annually for staff servicing installations).
+The employer appoints a person **responsible for the electrical facilities** (Group IV for installations up to 1000 V, Group V above 1000 V). Knowledge tests are repeated periodically (annually for staff servicing installations).
 
 **Organizational measures**
 
-1. Issuing a **work permit** (наряд‑допуск), **work order** (распоряжение) or a list of works performed as routine operation (§29). The permit is a written task defining place, time, scope, conditions and team.
+1. Issuing a **work permit** (наряд-допуск), **work order** (распоряжение) or a list of works performed as routine operation (§29). The permit is a written task defining place, time, scope, conditions and team.
 2. Permission to prepare the workplace and **admission** (допуск) to work.
 3. **Supervision** during work.
 4. Registration of **breaks**, **transfers** to another workplace and **completion** of work.
 
 **Responsible persons:** permit issuer, person who gives permission, permitter (допускающий), work manager (ответственный руководитель), work producer (производитель работ), supervisor (наблюдающий), team members.
 
-**Technical measures for work with de‑energizing (strictly in this order)**
+**Technical measures for work with de-energizing (strictly in this order)**
 
 1. Make the necessary **disconnections** and prevent erroneous or spontaneous switching on (locks, removal of fuses, disconnecting drives).
 2. Hang **prohibiting posters** on the drives of switching devices ("Не включать! Работают люди").
 3. **Verify the absence of voltage** on live parts with a voltage indicator (§139).
-4. **Apply grounding** — switch on earthing blades or install portable grounding.
+4. **Apply grounding**: switch on earthing blades or install portable grounding.
 5. Hang **warning and prescribing posters**, fence off the workplace, mark "Заземлено", "Работать здесь" (§170).
 
 ---
@@ -123,24 +123,24 @@ Protection against **direct contact**: insulation, enclosures and barriers, plac
 
 **Main measures**
 
-- **Insulation of live parts** — working, additional, **double** and reinforced insulation; periodic insulation resistance tests (≥ 0.5 MΩ for networks up to 1000 V).
-- **Inaccessibility** — enclosures, covers, fences, placement at a height, protective distances.
-- **Interlocks** (mechanical, electrical) — prevent opening of doors while energized and wrong switching operations.
-- **Low (extra‑low) voltage** — ≤ 42 V AC, ≤ 12 V in especially dangerous places.
-- **Electrical separation** of networks — isolating transformers.
-- **Protective grounding** (see Q6) and **protective zeroing (TN systems)** — a fault becomes a short circuit and the fuse/circuit breaker trips.
-- **Residual current device (RCD / УЗО)** — disconnects the circuit in ≤ 0.03–0.04 s when leakage current exceeds the set value (**30 mA** for protection of people).
-- **Potential equalization** — connecting all accessible metal parts so that no dangerous voltage appears between them.
-- **Signalling, safety signs and posters**, color marking of busbars (phases yellow, green, red; N – blue; PE – yellow‑green).
-- **Personal protective equipment** (see Q7).
+- **Insulation of live parts**: working, additional, **double** and reinforced insulation; periodic insulation resistance tests (≥ 0.5 MΩ for networks up to 1000 V).
+- **Inaccessibility**: enclosures, covers, fences, placement at a height, protective distances.
+- **Interlocks** (mechanical, electrical) - prevent opening of doors while energized and wrong switching operations.
+- **Low (extra-low) voltage**: ≤ 42 V AC, ≤ 12 V in especially dangerous places.
+- **Electrical separation** of networks - isolating transformers.
+- **Protective grounding** (see question 6) and **protective zeroing (TN systems)**: a fault becomes a short circuit and the fuse/circuit breaker trips.
+- **Residual current device (RCD / УЗО)**: disconnects the circuit in ≤ 0.03–0.04 s when leakage current exceeds the set value (**30 mA** for protection of people).
+- **Potential equalization**: connecting all accessible metal parts so that no dangerous voltage appears between them.
+- **Signalling, safety signs and posters**, color marking of busbars (phases yellow, green, red; N – blue; PE – yellow-green).
+- **Personal protective equipment** (see question 7).
 
-**Protection classes of electrical equipment:** 0 (only working insulation), I (working insulation + PE terminal), II (double/reinforced insulation, symbol ⧈), III (supplied by safety extra‑low voltage).
+**Protection classes of electrical equipment:** 0 (only working insulation), I (working insulation + PE terminal), II (double/reinforced insulation, symbol ⧈), III (supplied by safety extra-low voltage).
 
 ---
 
 ## 6. Protective Grounding and Grounding Systems
 
-**Protective grounding** is the deliberate electrical connection of non‑current‑carrying metal parts (enclosures, frames) that may become live to the **earth** through a grounding device. Its purpose is to **reduce touch and step voltage** to a safe value: in case of insulation failure the current flows through the low‑resistance ground connection instead of the person (R_ground ≪ R_human = 1000 Ω).
+**Protective grounding** is the deliberate electrical connection of non-current-carrying metal parts (enclosures, frames) that may become live to the **earth** through a grounding device. Its purpose is to **reduce touch and step voltage** to a safe value: in case of insulation failure the current flows through the low-resistance ground connection instead of the person (R_ground ≪ R_human = 1000 Ω).
 
 **Grounding device** = earth electrodes (vertical rods, steel angle/pipes 2.5–3 m, horizontal strips) + grounding conductors. Electrodes may be **natural** (metal structures, pipelines in the ground, foundations) or **artificial**.
 
@@ -150,15 +150,15 @@ Protection against **direct contact**: insulation, enclosures and barriers, plac
 
 | System | Meaning |
 |---|---|
-| **TN‑C** | Neutral grounded; N and PE combined in one PEN conductor |
-| **TN‑S** | N and PE separate along the whole network (the safest TN) |
-| **TN‑C‑S** | PEN at the beginning, then split into N and PE (typical for buildings) |
+| **TN-C** | Neutral grounded; N and PE combined in one PEN conductor |
+| **TN-S** | N and PE separate along the whole network (the safest TN) |
+| **TN-C-S** | PEN at the beginning, then split into N and PE (typical for buildings) |
 | **TT** | Neutral grounded, enclosures grounded by their own independent earth electrode (+ RCD) |
-| **IT** | Neutral isolated or grounded through high resistance; enclosures grounded — this is where **protective grounding** is the main measure |
+| **IT** | Neutral isolated or grounded through high resistance; enclosures grounded - this is where **protective grounding** is the main measure |
 
 **Grounding vs zeroing:** grounding *reduces* touch voltage (IT, TT); zeroing (connection to the PE/PEN conductor) turns a fault into a **short circuit** so the protection device **disconnects** the damaged section (TN).
 
-**Portable (temporary) grounding during work:** applied only after checking for absence of voltage; **first connect to the grounding device, then to the conductors** (with an insulating rod and dielectric gloves); removed in **reverse order**. Wire — flexible bare copper, cross‑section ≥ 25 mm² above 1000 V, ≥ 16 mm² up to 1000 V.
+**Portable (temporary) grounding during work:** applied only after checking for absence of voltage; **first connect to the grounding device, then to the conductors** (with an insulating rod and dielectric gloves); removed in **reverse order**. Wire - flexible bare copper, cross-section ≥ 25 mm² above 1000 V, ≥ 16 mm² up to 1000 V.
 
 **Step voltage:** it is not allowed to approach a fault on the ground closer than **4 m indoors and 8 m outdoors** without dielectric boots; leave the zone with small "shuffling" steps.
 
@@ -166,18 +166,18 @@ Protection against **direct contact**: insulation, enclosures and barriers, plac
 
 ## 7. Electrical Protective Equipment and Voltage Testing Devices
 
-Electrical protective equipment is divided into **insulating** (basic and additional), **enclosing** (fences, screens), **portable grounding**, **safety posters and signs**, and **personal protective equipment** (helmets, goggles, arc‑protection clothing). **Basic** equipment withstands the working voltage and allows touching live parts; **additional** equipment cannot protect alone and is used together with basic.
+Electrical protective equipment is divided into **insulating** (basic and additional), **enclosing** (fences, screens), **portable grounding**, **safety posters and signs**, and **personal protective equipment** (helmets, goggles, arc-protection clothing). **Basic** equipment withstands the working voltage and allows touching live parts; **additional** equipment cannot protect alone and is used together with basic.
 
 | | Basic | Additional |
 |---|---|---|
 | **Above 1000 V** | insulating rods, insulating and electrical clamps, **voltage indicators** | dielectric gloves, dielectric boots, dielectric carpets, insulating stands |
 | **Up to 1000 V** | insulating rods, clamps, **voltage indicators**, **dielectric gloves**, insulated hand tools | dielectric galoshes, carpets, insulating stands |
 
-**Periodic tests (typical):** dielectric gloves – every **6 months**; dielectric galoshes – 12 months; dielectric boots – 36 months; voltage indicators – 12 months; insulated tools – 12 months; insulating rods – 24 months. Each item carries a stamp with its number and the date of the next test; an item with an expired stamp may not be used. Before use, inspect for damage (gloves are checked for punctures by rolling them from the cuff).
+**Periodic tests:** dielectric gloves – every **6 months**; dielectric galoshes – 12 months; dielectric boots – 36 months; voltage indicators – 12 months; insulated tools – 12 months; insulating rods – 24 months. Each item carries a stamp with its number and the date of the next test; an item with an expired stamp may not be used. Before use, inspect for damage (gloves are checked for punctures by rolling them from the cuff).
 
 **Voltage indicators (§139):**
 
-- **Up to 1000 V:** two‑pole indicators (current through the lamp/indicator) and single‑pole indicators (for checking the phase).
+- **Up to 1000 V:** two-pole indicators (current through the lamp/indicator) and single-pole indicators (for checking the phase).
 - **Above 1000 V:** indicators reacting to capacitive current (neon lamp / LED and sound signal), used **in dielectric gloves**.
 - **Procedure:** before use, check the indicator **on live parts known to be energized** (or with a special test device); then check the absence of voltage **on all phases** and on every side where the equipment could be energized; check again after any break. Checking absence of voltage by "external signs" or only by instrument readings is prohibited.
 
@@ -185,13 +185,13 @@ Electrical protective equipment is divided into **insulating** (basic and additi
 
 ## 8. Electrical Safety Signs, Warning Signs and Safety Posters in Kazakhstan
 
-In Kazakhstan safety signs are regulated by the **Labor Code of the RK** (the employer must provide safe working conditions and inform workers about hazards), by the standard **ST RK GOST R 12.4.026 "Signal colors, safety signs and signal marking"** (and the interstate GOST 12.4.026‑2015) and, for electrical installations, by **Order No. 222, §170**. Signs warn about hazards, prohibit or prescribe actions and show the location of safety equipment and escape routes. Text on signs and posters must be in the state (Kazakh) and Russian languages.
+In Kazakhstan safety signs are regulated by the **Labor Code of the RK** (the employer must provide safe working conditions and inform workers about hazards), by the standard **ST RK GOST R 12.4.026 "Signal colors, safety signs and signal marking"** (and the interstate GOST 12.4.026-2015) and, for electrical installations, by **Order No. 222, §170**. Signs warn about hazards, prohibit or prescribe actions and show the location of safety equipment and escape routes. Text on signs and posters must be in the state (Kazakh) and Russian languages.
 
 **Signal colors**
 
 | Color | Meaning | Contrast color |
 |---|---|---|
-| **Red** | prohibition, immediate danger, fire‑fighting equipment, emergency stop | white |
+| **Red** | prohibition, immediate danger, fire-fighting equipment, emergency stop | white |
 | **Yellow** | warning, possible danger | black |
 | **Green** | safety, permission, evacuation routes, first aid | white |
 | **Blue** | mandatory action, information | white |
@@ -208,9 +208,9 @@ In Kazakhstan safety signs are regulated by the **Labor Code of the RK** (the em
 | **Medical / sanitary (EC)** | green square, white cross | "First aid kit", "Eye wash" |
 | **Indicating (D)** | blue rectangle | "Place for smoking", explanatory information |
 
-**Signal marking:** alternating **yellow–black** stripes at 45° — places of permanent hazard (edges of platforms, low beams, moving parts); **red–white** stripes — temporary hazard and restricted/fenced areas.
+**Signal marking:** alternating **yellow–black** stripes at 45° - places of permanent hazard (edges of platforms, low beams, moving parts); **red–white** stripes - temporary hazard and restricted/fenced areas.
 
-**Electrical safety posters (Order No. 222, §170)** — divided by purpose into four groups:
+**Electrical safety posters (Order No. 222, §170)**: divided by purpose into four groups:
 
 | Group | Posters | Where used |
 |---|---|---|
@@ -227,20 +227,20 @@ In Kazakhstan safety signs are regulated by the **Labor Code of the RK** (the em
 - made of insulating material when used near live parts; damaged and faded signs must be replaced;
 - safety signs are part of the **workplace safety documentation**, are explained during briefings (инструктаж), and their absence is a violation for which the employer bears administrative responsibility under the Code of Administrative Offences of the RK.
 
-**Safety posters (instructive):** besides signs, workplaces have instructional posters — first aid in case of electric shock, rules for using protective equipment, safe work methods — used for training and briefings.
+**Safety posters (instructive):** besides signs, workplaces have instructional posters - first aid in case of electric shock, rules for using protective equipment, safe work methods - used for training and briefings.
 
 ---
 
 ## 9. First Aid in Case of Electric Shock
 
-1) **Free the victim from the current** without endangering yourself; 2) **call an ambulance** (103 / 112 in Kazakhstan); 3) **assess consciousness and breathing**; 4) if there is no normal breathing — start **CPR (30 compressions : 2 breaths)** and use an AED if available; 5) treat burns and keep the victim under observation until doctors arrive.
+1) **Free the victim from the current** without endangering yourself; 2) **call an ambulance** (103 / 112 in Kazakhstan); 3) **assess consciousness and breathing**; 4) if there is no normal breathing - start **CPR (30 compressions : 2 breaths)** and use an AED if available; 5) treat burns and keep the victim under observation until doctors arrive.
 
 **1. Release from the current**
 
 - switch off the installation (switch, circuit breaker, unplug, remove fuses);
-- if impossible — pull the wire away with a **dry non‑conductive object** (dry stick, board, rope), cut the wires with insulated tools **one phase at a time**; pull the victim by dry clothing with **one hand**, standing on a dry board/rubber mat, wearing dielectric gloves if possible;
-- above 1000 V — only with dielectric gloves, boots and an insulating rod/clamps;
-- in the **step‑voltage zone** move with small shuffling steps without lifting feet; do not approach closer than 8 m to a wire on the ground without protection.
+- if impossible - pull the wire away with a **dry non-conductive object** (dry stick, board, rope), cut the wires with insulated tools **one phase at a time**; pull the victim by dry clothing with **one hand**, standing on a dry board/rubber mat, wearing dielectric gloves if possible;
+- above 1000 V - only with dielectric gloves, boots and an insulating rod/clamps;
+- in the **step-voltage zone** move with small shuffling steps without lifting feet; do not approach closer than 8 m to a wire on the ground without protection.
 
 **2–4. Assessment and resuscitation**
 
@@ -252,14 +252,14 @@ In Kazakhstan safety signs are regulated by the **Labor Code of the RK** (the em
 
 - burns: cool with clean water, cover with a sterile dressing, do not remove stuck clothing, do not apply oils;
 - treat fractures/bleeding caused by the fall;
-- **every** victim of electric shock must be examined by a doctor, even if he/she feels well — dangerous heart arrhythmia may appear hours later;
+- **every** victim of electric shock must be examined by a doctor, even if he/she feels well - dangerous heart arrhythmia may appear hours later;
 - **never** bury the victim in the ground or pour water over him/her.
 
 ---
 
-## 10. Protection Against Industrial‑Frequency Electromagnetic Fields (50 Hz)
+## 10. Protection Against Industrial-Frequency Electromagnetic Fields (50 Hz)
 
-Industrial‑frequency (50 Hz) electric and magnetic fields are created by high‑voltage lines (330 kV and above), open switchgear, substations, and powerful electrical equipment. Long exposure affects the **nervous and cardiovascular systems** (headache, fatigue, sleep disorders, blood pressure changes). Protection: **time, distance, shielding**, plus organizational and sanitary measures.
+Industrial-frequency (50 Hz) electric and magnetic fields are created by high-voltage lines (330 kV and above), open switchgear, substations, and powerful electrical equipment. Long exposure affects the **nervous and cardiovascular systems** (headache, fatigue, sleep disorders, blood pressure changes). Protection: **time, distance, shielding**, plus organizational and sanitary measures.
 
 **Permissible electric field intensity E at workplaces (sanitary norms):**
 
@@ -274,10 +274,10 @@ Magnetic field of 50 Hz is limited by the duration of exposure (e.g. ~80 A/m (10
 
 **Protective measures**
 
-- **protection by time** — limit time spent in the field;
-- **protection by distance** — moving workplaces and routes away from sources;
-- **collective shielding** — stationary and portable screens, canopies, grounded fences, grounded metal parts of machines;
-- **individual shielding kits** — conductive suits, helmets, footwear (e.g. "Эп‑1", "Эп‑3"), grounded through the shoes;
+- **protection by time**: limit time spent in the field;
+- **protection by distance**: moving workplaces and routes away from sources;
+- **collective shielding**: stationary and portable screens, canopies, grounded fences, grounded metal parts of machines;
+- **individual shielding kits**: conductive suits, helmets, footwear (e.g. "Эп-1", "Эп-3"), grounded through the shoes;
 - **grounding** of all metal structures and vehicles in the field (to avoid induced voltage and discharges);
 - **sanitary protection zones** along overhead lines: 330 kV – 20 m, 500 kV – 30 m, 750 kV – 40 m, 1150 kV – 55 m from the outermost conductor;
 - periodic measurements, medical examinations, training.
@@ -291,23 +291,23 @@ Static electricity is the generation and accumulation of free electric charges o
 **Prevention measures**
 
 1. **Grounding and bonding** of all conductive equipment, pipes, tanks, tank trucks (resistance of grounding for static protection **≤ 100 Ω**); all metal parts connected into one continuous circuit.
-2. **Increasing air humidity** to **65–70 %** or more — surfaces become conductive and charges leak away.
-3. **Reducing the electrical resistance of materials** — antistatic additives, conductive coatings, antistatic belts.
-4. **Neutralization by ionization of the air** — induction, high‑voltage, radioactive neutralizers.
-5. **Technological measures** — limiting the speed of flowing liquids and belts, filling tanks from the bottom without free fall and splashing, using pipes of the same material, relaxation time before sampling.
-6. **Personnel protection** — antistatic footwear and clothing (cotton instead of synthetics), **conductive floors**, grounded wrist straps, grounded metal handrails and door handles; no contact with jewelry in explosive zones.
-7. **Explosion protection** — inert gas, ventilation, keeping concentrations below the lower explosion limit.
+2. **Increasing air humidity** to **65–70 %** or more - surfaces become conductive and charges leak away.
+3. **Reducing the electrical resistance of materials**: antistatic additives, conductive coatings, antistatic belts.
+4. **Neutralization by ionization of the air**: induction, high-voltage, radioactive neutralizers.
+5. **Technological measures**: limiting the speed of flowing liquids and belts, filling tanks from the bottom without free fall and splashing, using pipes of the same material, relaxation time before sampling.
+6. **Personnel protection**: antistatic footwear and clothing (cotton instead of synthetics), **conductive floors**, grounded wrist straps, grounded metal handrails and door handles; no contact with jewelry in explosive zones.
+7. **Explosion protection**: inert gas, ventilation, keeping concentrations below the lower explosion limit.
 
 ---
 
 ### Key figures
 
 - Human body resistance for calculations: **1000 Ω**
-- AC thresholds: **1 mA** perceptible, **10–15 mA** let‑go, **50–100 mA** fibrillation
+- AC thresholds: **1 mA** perceptible, **10–15 mA** let-go, **50–100 mA** fibrillation
 - RCD for people: **30 mA**
 - Grounding resistance up to 1000 V: **≤ 4 Ω** (≤ 10 Ω for ≤ 100 kVA); for static: **≤ 100 Ω**
 - Low voltage: **≤ 42 V** (increased danger), **≤ 12 V** (especially dangerous)
-- Increased‑danger premises: humidity **> 75 %**, temperature **> 35 °C**
+- Increased-danger premises: humidity **> 75 %**, temperature **> 35 °C**
 - Step voltage: don't approach **< 4 m indoors / < 8 m outdoors**
 - Dielectric gloves tested every **6 months**
 - CPR: **30 : 2**, 100–120 / min, 5–6 cm
